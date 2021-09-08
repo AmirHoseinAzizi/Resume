@@ -63,7 +63,7 @@
 </ol>
 
 ### [contact with me]
- - Quera Profile: <a href="">My Profile</a>
+ - Quera Profile: <a href="https://quera.ir/dashboard">My Profile</a>
  - Persian resume: <a href="https://amirhoseinazizi.github.io/resume.farsi/"> Resume </a>
 
 
