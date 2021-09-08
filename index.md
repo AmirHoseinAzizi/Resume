@@ -18,7 +18,6 @@
 
 ---
 <ol>
-  <li>English translation</li>
   <li>c</li>
   <li>c++</li>
 <li>ICDL1</li>
