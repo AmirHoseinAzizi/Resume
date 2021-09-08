@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AmirHoseinAzizi/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###Fatememosaee
+<img src="https://avatars.githubusercontent.com/u/90281764?s=400&u=98ed6a79b545e92e69b3bb543b38ada12702e9e7&v=4" /></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal informations
 
-### Markdown
+---
+<ol>
+  <li> Name: AmirHosein</li>
+  <li> Last name :Azizi</li>
+  <li> Date of birth : 1997/oct/06</li>
+  <li> Martial status : Single</li>
+  <li> I am a Computer engineering student</li>
+  <li> Location : Tehran , Iran</li>
+</ol>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Skill Highlights
 
-# Header 1
-## Header 2
-### Header 3
+---
+<ol>
+  <li>English translation</li>
+  <li>c</li>
+  <li>c++</li>
+<li>ICDL1</li>
+</ol>
 
-- Bulleted
-- List
+### Education
 
-1. Numbered
-2. List
+---
+<ol>
+<li> Diploma :Farhang school
+  _ 2015</li>
+<li> Bachelor of science : computer Engineering
+  _ 2018,payam Noor University </li>
+</ol>
 
-**Bold** and _Italic_ and `Code` text
+### Favorites
 
-[Link](url) and ![Image](src)
-```
+---
+<ol>
+  <li> travel </li>
+  <li> watch movie</li>
+</ol>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Speaking language
 
-### Jekyll Themes
+---
+<ol> 
+  <li> Persian</li>
+   <li> English</li>
+</ol>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmirHoseinAzizi/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Programing language
 
-### Support or Contact
+---
+<ol>
+  <li> HTML</li>
+ <li> CSS</li>
+</ol>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### working Experience
+
+---
+<ol>
+  <li> I'm not working Online mobile online sales system </li>
+</ol>
+
+### [contact with me]
+ - Quera Profile: <a href="">My Profile</a>
+ - Persian resume: <a href=""> Resume </a>
+
+
+---
