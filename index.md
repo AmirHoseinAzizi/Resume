@@ -59,7 +59,7 @@
 
 ---
 <ol>
-  <li> I'm not working Online mobile online sales system </li>
+  <li> I'm working Online mobile online sales system </li>
 </ol>
 
 ### [contact with me]
