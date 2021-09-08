@@ -27,8 +27,6 @@
 
 ---
 <ol>
-<li> Diploma :Farhang school
-  _ 2015</li>
 <li> Bachelor of science : computer Engineering
   _ 2018,payam Noor University </li>
 </ol>
